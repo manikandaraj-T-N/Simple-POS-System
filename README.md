@@ -10,6 +10,7 @@
 - [Installation](https://github.com/manikandaraj-T-N/Simple-POS-System/blob/main/README.md#installation-)
 - [Usage](https://github.com/manikandaraj-T-N/Simple-POS-System/blob/main/README.md#usage-)
 - [Contributing](https://github.com/manikandaraj-T-N/Simple-POS-System/blob/main/README.md#contributing-)
+- [License](https://github.com/manikandaraj-T-N/Simple-POS-System/blob/main/README.md#license-)
 - [Acknowledgements](https://github.com/manikandaraj-T-N/Simple-POS-System/blob/main/README.md#acknowledgements-)
 
 ### Introduction:-
@@ -32,7 +33,6 @@ The application uses Java Swing to provide a graphical user interface, and MySQL
 
 - Java 8 or higher
 - MySQL 5.6 or higher
-
 
 ### GUI of Project
 
@@ -67,7 +67,6 @@ Contributions are welcome! If you find a bug or have an idea for a new feature, 
 
 ### License:-
 - This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/) License
-
 
 ### Acknowledgements:-
 
