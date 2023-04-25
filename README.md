@@ -37,3 +37,8 @@ Use the "Print Bill" button to print the bill.
 Contributing:-
 
 Contributions are welcome! If you find a bug or have an idea for a new feature, please submit an issue or pull request.
+
+
+
+![Screenshot (250)](https://user-images.githubusercontent.com/93505267/234218949-d2309421-c7c0-4499-86d7-840c0e79d388.png)
+
