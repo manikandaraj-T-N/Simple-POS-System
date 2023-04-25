@@ -2,14 +2,15 @@
 # Simple POS System
 
 ## Table of Contents
-- Introduction
-- Features
-- Requirements
-- Installation
-- Usage
-- Contributing
-- License
-- Acknowledgements
+
+[Introduction](https://github.com/manikandaraj-T-N/Simple-POS-System/blob/main/README.md#introduction-)
+[Features](https://github.com/manikandaraj-T-N/Simple-POS-System/blob/main/README.md#features-)
+[Requirements](https://github.com/manikandaraj-T-N/Simple-POS-System/blob/main/README.md#requirements-)
+[Technologies Used](https://github.com/manikandaraj-T-N/Simple-POS-System/blob/main/README.md#technologies-used-)
+[Installation](https://github.com/manikandaraj-T-N/Simple-POS-System/blob/main/README.md#installation-)
+[Usage](https://github.com/manikandaraj-T-N/Simple-POS-System/blob/main/README.md#usage-)
+[Contributing](https://github.com/manikandaraj-T-N/Simple-POS-System/blob/main/README.md#contributing-)
+[Acknowledgements](https://github.com/manikandaraj-T-N/Simple-POS-System/blob/main/README.md#acknowledgements-)
 
 ### Introduction:-
 
