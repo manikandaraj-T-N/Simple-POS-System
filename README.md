@@ -28,7 +28,7 @@ The application uses Java Swing to provide a graphical user interface, and MySQL
 - Clone the repository: git clone https://github.com/your-username/simple-pos.git
 - Import the project into your Netbeans IDE.
 - Create a MySQL database and import the database.sql file to create the required tables.
-- Add the MySQL Connector/J JAR file to your project dependencies.
+- Add the MySQL Connector JAR file to your project dependencies.
 - Update the database connection parameters in the DBConnection.java file to match your MySQL database configuration.
 
 ### Usage:- 
