@@ -1,5 +1,6 @@
 # Simple-POS-System
 
+
 Simple POS with Bill Print using Java and MySQL:-
 
 This is a simple point-of-sale (POS) system built using Java and MySQL that allows users to manage inventory, create bills, and print receipts. 
