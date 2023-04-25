@@ -9,35 +9,35 @@ The application uses Java Swing to provide a graphical user interface, and MySQL
 
 ### Features:-
 
-Inventory management: Users can add, edit, and delete products in the inventory.
-Billing: Users can select products from the inventory and add them to the billing list. The application calculates the total cost and generates a bill.
-Bill printing: Users can print the bill and provide it to the customer.
+- Inventory management: Users can add, edit, and delete products in the inventory.
+- Billing: Users can select products from the inventory and add them to the billing list. The application calculates the total cost and generates a bill.
+- Bill printing: Users can print the bill and provide it to the customer.
 
 ### Requirements:-
 
-MySQL Connector
-Apache Netbeans
+- MySQL Connector
+- Apache Netbeans
 
 ### Technologies Used:-
 
-Java 8 or higher
-MySQL 5.6 or higher
+- Java 8 or higher
+- MySQL 5.6 or higher
 
 ### Installation:-
 
-Clone the repository: git clone https://github.com/your-username/simple-pos.git
-Import the project into your Java IDE.
-Create a MySQL database and import the database.sql file to create the required tables.
-Add the MySQL Connector/J JAR file to your project dependencies.
-Update the database connection parameters in the DBConnection.java file to match your MySQL database configuration.
+- Clone the repository: git clone https://github.com/your-username/simple-pos.git
+- Import the project into your Netbeans IDE.
+- Create a MySQL database and import the database.sql file to create the required tables.
+- Add the MySQL Connector/J JAR file to your project dependencies.
+- Update the database connection parameters in the DBConnection.java file to match your MySQL database configuration.
 
 ### Usage:- 
 
-Run the application.
-Use the "Inventory" tab to add, edit, and delete products in the inventory.
-Use the "Billing" tab to select products from the inventory and add them to the billing list.
-Click the "Generate Bill" button to generate a bill.
-Use the "Print Bill" button to print the bill.
+- Run the application.
+- Use the "Inventory" tab to add, edit, and delete products in the inventory.
+- Use the "Billing" tab to select products from the inventory and add them to the billing list.
+- Click the "Generate Bill" button to generate a bill.
+- Use the "Print Bill" button to print the bill.
 
 ### Contributing:-
 
@@ -47,13 +47,13 @@ Contributions are welcome! If you find a bug or have an idea for a new feature, 
 
 ![Screenshot (250)](https://user-images.githubusercontent.com/93505267/234218949-d2309421-c7c0-4499-86d7-840c0e79d388.png)
 
-### Product's price  
+### Product's price in MYSQL database(salespost)
 
 ![Simpleposdatabase](https://user-images.githubusercontent.com/93505267/234232634-cc3a8bc2-7106-46e7-a1ad-a94c9ab626c0.png)
 
 
 
-Change it  as per your convenience
+###### (Note: Change price of product or number of products as per your convenience)
 
 
 
