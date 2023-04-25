@@ -65,7 +65,7 @@ The application uses Java Swing to provide a graphical user interface, and MySQL
 Contributions are welcome! If you find a bug or have an idea for a new feature, please submit an issue or pull request.
 
 ### License:-
-- This project is licensed under the ([MIT](https://choosealicense.com/licenses/mit/)) License
+- This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/) License
 
 
 ### Acknowledgements:-
