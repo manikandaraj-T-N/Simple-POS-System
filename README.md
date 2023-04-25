@@ -1,5 +1,5 @@
 
-# Simple-POS-System
+# Simple POS System
 
 
 ### Introduction:-
@@ -53,9 +53,10 @@ Contributions are welcome! If you find a bug or have an idea for a new feature, 
 
 
 
-###### (Note: Change price of product or number of products as per your convenience)
+###### (Note: Change the price of product or number of products as per your convenience)
 
 ### Acknowledgements
+
 - I would like to express my sincere gratitude to Skill Lync, the organization where I learned full-stack development and completed this project as part of my internship. I would like to thank my project mentor for providing guidance, feedback, and support throughout the project.
 
 - I would also like to acknowledge the Java and MySQL communities for creating and maintaining these powerful and versatile technologies.
