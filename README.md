@@ -2,14 +2,14 @@
 # Simple POS System
 
 ## Table of Contents
-Introduction
-Features
-Requirements
-Installation
-Usage
-Contributing
-License
-Acknowledgements
+- Introduction
+- Features
+- Requirements
+- Installation
+- Usage
+- Contributing
+- License
+- Acknowledgements
 
 ### Introduction:-
 
