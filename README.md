@@ -15,7 +15,8 @@ Requirements:-
 
 Java 8 or higher
 MySQL 5.6 or higher
-MySQL Connector/J
+MySQL Connector
+Apache Netbeans
 
 Installation:-
 
