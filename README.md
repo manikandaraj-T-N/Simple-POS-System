@@ -15,10 +15,13 @@ Bill printing: Users can print the bill and provide it to the customer.
 
 ### Requirements:-
 
-Java 8 or higher
-MySQL 5.6 or higher
 MySQL Connector
 Apache Netbeans
+
+### Technologies Used:-
+
+Java 8 or higher
+MySQL 5.6 or higher
 
 ### Installation:-
 
@@ -40,9 +43,19 @@ Use the "Print Bill" button to print the bill.
 
 Contributions are welcome! If you find a bug or have an idea for a new feature, please submit an issue or pull request.
 
-
+### GUI of Project
 
 ![Screenshot (250)](https://user-images.githubusercontent.com/93505267/234218949-d2309421-c7c0-4499-86d7-840c0e79d388.png)
+
+### Product's price  
+
+![Simpleposdatabase](https://user-images.githubusercontent.com/93505267/234232634-cc3a8bc2-7106-46e7-a1ad-a94c9ab626c0.png)
+
+
+
+Change it  as per your convenience
+
+
 
 
 
