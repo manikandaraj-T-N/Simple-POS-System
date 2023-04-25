@@ -1,6 +1,15 @@
 
 # Simple POS System
 
+## Table of Contents
+Introduction
+Features
+Requirements
+Installation
+Usage
+Contributing
+License
+Acknowledgements
 
 ### Introduction:-
 
@@ -23,6 +32,18 @@ The application uses Java Swing to provide a graphical user interface, and MySQL
 - Java 8 or higher
 - MySQL 5.6 or higher
 
+
+### GUI of Project
+
+![Screenshot (250)](https://user-images.githubusercontent.com/93505267/234218949-d2309421-c7c0-4499-86d7-840c0e79d388.png)
+
+### Product's price in MYSQL database(salespost)
+
+![Simpleposdatabase](https://user-images.githubusercontent.com/93505267/234232634-cc3a8bc2-7106-46e7-a1ad-a94c9ab626c0.png)
+
+
+###### (Note: Change the price of product or number of products as per your convenience)
+
 ### Installation:-
 
 - Clone the repository: git clone https://github.com/your-username/simple-pos.git
@@ -43,17 +64,9 @@ The application uses Java Swing to provide a graphical user interface, and MySQL
 
 Contributions are welcome! If you find a bug or have an idea for a new feature, please submit an issue or pull request.
 
-### GUI of Project
+### License
+- This project is licensed under the MIT License
 
-![Screenshot (250)](https://user-images.githubusercontent.com/93505267/234218949-d2309421-c7c0-4499-86d7-840c0e79d388.png)
-
-### Product's price in MYSQL database(salespost)
-
-![Simpleposdatabase](https://user-images.githubusercontent.com/93505267/234232634-cc3a8bc2-7106-46e7-a1ad-a94c9ab626c0.png)
-
-
-
-###### (Note: Change the price of product or number of products as per your convenience)
 
 ### Acknowledgements
 
